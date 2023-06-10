@@ -1,0 +1,14 @@
+body {
+    margin: 10;
+}
+.imagen {
+    width: 10%;
+}
+h1 {
+    color: #000000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1 {
+    text-align: justify;
+}
